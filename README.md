@@ -13,7 +13,7 @@ From Lanzarote, Canary Islands, I'm currently studying 3rd year of Computer Scie
 </br>
 [![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 </br>
-[![AJAX](https://img.shields.io/badge/Ajax-F7DF1E?style=for-the-badge&logo=ajax&logoColor=white&labelColor=101010)]()
+[![HTML5](https://img.shields.io/badge/HTML5-F7DF1E?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 </br>
 [![JQuery](https://img.shields.io/badge/JQuery-F7DF1E?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)]()
 </br>
