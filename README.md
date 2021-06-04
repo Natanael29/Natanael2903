@@ -1,16 +1,16 @@
 # Hi, my name is Natanael Martínez Morales
-###Computer Science Engineering 3rd year student.
+### Computer Science Engineering 3rd year student.
 
 From Lanzarote, Canary Islands, I'm currently studying 3rd year of Computer Science Engineering at Las Palmas de Gran Canaria University.
 
-##Skills
+## Skills
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 
-##Find me at
+## Find me at
 
 [![Twitter](https://img.shields.io/badge/Twitter-@Natanael2903-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Natanael2903)
 [![Instagram](https://img.shields.io/badge/Instagram-@natanaelmm29-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/natanaelmm29)
