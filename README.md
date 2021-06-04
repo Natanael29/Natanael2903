@@ -24,4 +24,4 @@ From Lanzarote, Canary Islands, I'm currently studying 3rd year of Computer Scie
 
 ## Contact me:
 
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:natanael29032000@gmail.com)
+[![Email](https://img.shields.io/badge/natanael29032000@gmail.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:natanael29032000@gmail.com)
