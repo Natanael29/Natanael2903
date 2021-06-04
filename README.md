@@ -1,5 +1,5 @@
 # Hi, my name is Natanael Martínez Morales
-### Computer Science Engineering 3rd year student.
+### Computer Science Engineering 3rd year student
 
 From Lanzarote, Canary Islands, I'm currently studying 3rd year of Computer Science Engineering at Las Palmas de Gran Canaria University.
 
