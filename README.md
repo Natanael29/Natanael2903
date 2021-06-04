@@ -8,6 +8,10 @@ From Lanzarote, Canary Islands, I'm currently studying 3rd year of Computer Scie
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 </br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![PHP](https://img.shields.io/badge/PHP-F7DF1E?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![AJAX](https://img.shields.io/badge/Ajax-F7DF1E?style=for-the-badge&logo=ajax&logoColor=white&labelColor=101010)]()
+[![JQuery](https://img.shields.io/badge/JQuery-F7DF1E?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)]()
 </br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
