@@ -7,7 +7,6 @@ From Lanzarote, Canary Islands, I'm currently studying 3rd year of Computer Scie
 ---
 
 ## Skills:
-
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![PHP](https://img.shields.io/badge/PHP-blueviolet?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
@@ -22,7 +21,6 @@ From Lanzarote, Canary Islands, I'm currently studying 3rd year of Computer Scie
 ---
 
 ## Find me at:
-
 [![Twitter](https://img.shields.io/badge/Twitter-@Natanael2903-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Natanael2903)
 [![Instagram](https://img.shields.io/badge/Instagram-@natanaelmm29-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/natanaelmm29)
 </br>
@@ -33,7 +31,6 @@ From Lanzarote, Canary Islands, I'm currently studying 3rd year of Computer Scie
 ---
 
 ## Contact me:
-
 [![Email](https://img.shields.io/badge/natanael29032000@gmail.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:natanael29032000@gmail.com)
 
 <p align="center">
