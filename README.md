@@ -17,7 +17,7 @@ From Lanzarote, Canary Islands, I'm currently studying 3rd year of Computer Scie
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 
-----
+---
 
 ## Find me at:
 
