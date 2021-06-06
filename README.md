@@ -4,6 +4,8 @@
 
 From Lanzarote, Canary Islands, I'm currently studying 3rd year of Computer Science Engineering at Las Palmas de Gran Canaria University.
 
+---
+
 ## Skills:
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
@@ -27,6 +29,9 @@ From Lanzarote, Canary Islands, I'm currently studying 3rd year of Computer Scie
 [![Facebook](https://img.shields.io/badge/Facebook-Natanael_Martinez-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/natanael.martinezmorales.5)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Natanael_Martinez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/natanael-martinez-morales)
 </br>
+
+---
+
 ## Contact me:
 
 [![Email](https://img.shields.io/badge/natanael29032000@gmail.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:natanael29032000@gmail.com)
