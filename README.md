@@ -1,4 +1,4 @@
-<h1 align="center">Hi, my name is Natanael Martínez Morales</h1><br>
+<h1 align="center">Hi, my name is Natanael Martínez Morales</h1>
 
 ---
 
