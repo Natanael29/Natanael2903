@@ -28,3 +28,10 @@ From Lanzarote, Canary Islands, I'm currently studying 3rd year of Computer Scie
 ## Contact me:
 
 [![Email](https://img.shields.io/badge/natanael29032000@gmail.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:natanael29032000@gmail.com)
+
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=Natanael29&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Natanael29&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Natanael29&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+</p>
