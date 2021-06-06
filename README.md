@@ -1,6 +1,6 @@
 <h1 align="center">Hi, my name is Natanael Martínez Morales</h1>
 
-----
+---
 
 ### Computer Science Engineering 3rd year student
 
