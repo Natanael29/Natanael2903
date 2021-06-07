@@ -7,7 +7,7 @@ From Lanzarote, Canary Islands, I'm currently studying 3rd year of Computer Scie
 ---
 
 ## Skills:
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=FFFFFF)]()
+[![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![PHP](https://img.shields.io/badge/PHP-blueviolet?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-9cf?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
