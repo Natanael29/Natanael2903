@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi 👋, my name is Natanael Martínez Morales</h1> -->
 [![ProfileBanner](https://github.com/Natanael29/Natanael29/blob/main/mybanner.png)](https://Natanael19.github.io)
 
-### Computer Science Engineering 3rd year student
+### Computer Science Engineering 4th year student
 
 From Lanzarote, Canary Islands, I'm currently studying 3rd year of Computer Science Engineering at Las Palmas de Gran Canaria University. In continuous learning, I love keeping up to date with all related to new technologies. 
 
