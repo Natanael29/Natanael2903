@@ -22,7 +22,7 @@ From Lanzarote, Canary Islands, I'm currently studying 4rd year of Computer Scie
 ---
 
 ## Find me at
-[![Twitter](https://img.shields.io/badge/Twitter-@Natanael2903-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Natanael2903)
+[![Twitter](https://img.shields.io/badge/Twitter-@natanaelmm29-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/natanaelmm29)
 [![Instagram](https://img.shields.io/badge/Instagram-@natanaelmm29-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/natanaelmm29)
 </br>
 [![Facebook](https://img.shields.io/badge/Facebook-Natanael_Martinez-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/natanael.martinezmorales.5)
