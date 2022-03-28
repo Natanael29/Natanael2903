@@ -19,8 +19,8 @@ From Lanzarote, Canary Islands, I'm currently studying 4rd year of Computer Scie
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 [![Typescript](https://img.shields.io/badge/Typescript-1DA1F2?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
-[![Angular](https://img.shields.io/badge/Angular-4479A1?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
-[![Laravel](https://img.shields.io/badge/Laravel-4479A1?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
+[![Angular](https://img.shields.io/badge/Angular-D14836?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
+[![Laravel](https://img.shields.io/badge/Laravel-E4405F?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
 [![PostgreSQL](https://img.shields.io/badge/Postgresql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 </br>
 
