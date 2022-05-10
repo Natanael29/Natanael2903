@@ -22,6 +22,7 @@ From Lanzarote, Canary Islands, I'm currently studying 4rd year of Computer Scie
 [![Angular](https://img.shields.io/badge/Angular-D14836?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
 [![Laravel](https://img.shields.io/badge/Laravel-E4405F?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
 [![PostgreSQL](https://img.shields.io/badge/Postgresql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
+[![Firebase](https://img.shields.io/badge/Firebase-4479A1?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 </br>
 
 ---
