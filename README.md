@@ -9,19 +9,19 @@ From Lanzarote, Canary Islands, I'm currently studying 4rd year of Computer Scie
 
 ## Skills
 [![Java](https://img.shields.io/badge/Java-5B4638?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![PHP](https://img.shields.io/badge/PHP-blueviolet?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-9cf?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-</br>
 [![HTML5](https://img.shields.io/badge/HTML5-D14836?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS3-00BFFF?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![JQuery](https://img.shields.io/badge/JQuery-forestgreen?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![Firebase](https://img.shields.io/badge/Firebase-FF8C00?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-9cf?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 </br>
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Typescript](https://img.shields.io/badge/Typescript-1DA1F2?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 [![Angular](https://img.shields.io/badge/Angular-D14836?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
 [![Laravel](https://img.shields.io/badge/Laravel-E4405F?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
+</br>
+[![PHP](https://img.shields.io/badge/PHP-blueviolet?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Firebase](https://img.shields.io/badge/Firebase-FF8C00?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![PostgreSQL](https://img.shields.io/badge/Postgresql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 </br>
 
