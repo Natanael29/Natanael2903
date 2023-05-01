@@ -6,7 +6,7 @@
 From Lanzarote, Canary Islands, I'm currently studying the Cybersecurity Master's Degree at Universidad Carlos III de Madrid. In continuous learning, I love keeping up to date with all related to new technologies. 
 
 ---
-
+<!--
 ## Skills
 [![Java](https://img.shields.io/badge/Java-5B4638?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![HTML5](https://img.shields.io/badge/HTML5-D14836?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
@@ -24,7 +24,7 @@ From Lanzarote, Canary Islands, I'm currently studying the Cybersecurity Master'
 [![Firebase](https://img.shields.io/badge/Firebase-FF8C00?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![PostgreSQL](https://img.shields.io/badge/Postgresql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 </br>
-
+-->
 ---
 
 ## Find me at
